@@ -1,5 +1,6 @@
 /datasets
-/best_model_weights
-/models
-/pdf
+/notebooks
+/resources
 *.csv
+
+__pycache__
